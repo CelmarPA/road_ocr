@@ -80,4 +80,4 @@ dist/RoadOCR.exe
 
 ## 👨‍💻 Author
 
-RoadOCR Project
+https://github.com/CelmarPA
