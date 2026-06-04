@@ -33,13 +33,13 @@ class SpreadsheetManager:
 
             # Header row (only created once)
             self.ws.append([
-                "Data",
-                "Hora",
+                "Date",
+                "Time",
                 "S",
                 "W",
                 "Km",
-                "Lado",
-                "Foto"
+                "Side",
+                "Image"
             ])
 
             self.save_file()

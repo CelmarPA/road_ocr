@@ -49,7 +49,7 @@ RoadOCR/
 
 ## ⚙️ Installation (Development)
 
-git clone https://github.com/yourusername/RoadOCR.git
+git clone https://github.com/CelmarPA/road_ocr.git
 cd RoadOCR
 python -m venv venv
 venv\Scripts\activate

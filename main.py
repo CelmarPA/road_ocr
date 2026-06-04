@@ -19,7 +19,7 @@ def get_directory() -> str:
     root.withdraw()  # Hide main Tkinter window
 
     directory = filedialog.askdirectory(
-        title="Selecione a pasta das imagens"
+        title="Select the image folder"
     )
 
     return directory

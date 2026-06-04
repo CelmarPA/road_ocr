@@ -16,4 +16,4 @@ LANGUAGE: List[str] = ["pt"]
 EXTENSIONS: Tuple[str, ...] = (".jpg", ".jpeg", ".png")
 
 # Output Excel file name
-EXCEL_FILE: str = "relatorio.xlsx"
+EXCEL_FILE: str = "report.xlsx"
